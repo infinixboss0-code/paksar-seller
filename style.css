@@ -1,0 +1,27 @@
+body {
+  background-color: #f9f9f9;
+}
+
+header h1 {
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.product-card img {
+  max-height: 220px;
+  object-fit: cover;
+}
+
+.price {
+  font-weight: bold;
+  color: #28a745;
+}
+
+.btn-primary {
+  background-color: #ff9900;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #e68a00;
+}
