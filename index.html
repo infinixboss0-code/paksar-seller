@@ -3,52 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="PakSar Seller - Amazon Affiliate Store">
+  <meta name="description" content="PakSar Seller - Premium Amazon Affiliate Store">
   <title>PakSar Seller</title>
   <link rel="stylesheet" href="style.css">
-  <!-- Bootstrap for responsive design -->
+
+  <!-- Bootstrap for responsive layout -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <!-- Header -->
-  <header class="bg-dark text-white py-3 text-center">
+  <header class="header text-center py-4">
     <h1 class="fw-bold">PakSar Seller</h1>
-    <p>Best Amazon Products in One Place</p>
+    <p class="tagline">Find the best Amazon deals in one place</p>
   </header>
 
-  <!-- Product Grid -->
-  <main class="container my-4">
+  <!-- Product Section -->
+  <main class="container my-5">
     <div class="row g-4" id="product-list">
-      <!-- Example Product -->
-      <div class="col-6 col-md-4 col-lg-3">
-        <div class="card product-card shadow-sm">
-          <img src="https://via.placeholder.com/300x300" class="card-img-top" alt="Wireless Headphones">
-          <div class="card-body text-center">
-            <h5 class="card-title">Wireless Headphones</h5>
-            <p class="price">$59.99</p>
-            <a href="https://www.amazon.com/dp/B07PGL2ZSL/?tag=PakSarSeller-20" target="_blank" 
-               class="btn btn-primary">Buy on Amazon</a>
-          </div>
-        </div>
-      </div>
-      
-      <!-- Another Product -->
-      <div class="col-6 col-md-4 col-lg-3">
-        <div class="card product-card shadow-sm">
-          <img src="https://via.placeholder.com/300x300" class="card-img-top" alt="Mechanical Keyboard">
-          <div class="card-body text-center">
-            <h5 class="card-title">Mechanical Keyboard</h5>
-            <p class="price">$89.50</p>
-            <a href="https://www.amazon.com/dp/B08N5WRWNW/?tag=PakSarSeller-20" target="_blank" 
-               class="btn btn-primary">Buy on Amazon</a>
-          </div>
-        </div>
-      </div>
+      <!-- Products will be dynamically loaded here -->
     </div>
   </main>
 
   <!-- Footer -->
-  <footer class="bg-dark text-white text-center py-3">
+  <footer class="footer text-center py-3">
     <p>&copy; 2025 PakSar Seller | All Rights Reserved</p>
     <small>Disclaimer: As an Amazon Associate I earn from qualifying purchases.</small>
   </footer>
