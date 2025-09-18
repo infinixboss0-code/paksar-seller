@@ -7,7 +7,7 @@ const products = [
     asin: "B07PGL2ZSL",
     title: "Wireless Bluetooth Headphones",
     price: "$59.99",
-    image: "https://via.placeholder.com/300x300?text=Headphones"
+    image: "https://audionic.co/products/airbud-425-tws-earbuds?srsltid=AfmBOorWz5924rCkRMG4nXKxgEFGE7scqK2J4UTfyQiZ26JXdvsYmUjA"
   },
   {
     asin: "B08N5WRWNW",
