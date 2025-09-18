@@ -5,7 +5,7 @@ const AFFILIATE_TAG = "PakSarSeller-20";
 const products = [
   {
     asin: "B07PGL2ZSL",
-    title: "Wireless Bluetooth Headphones",
+    title: "Audionic Wireless Earbuds",
     price: "$59.99",
     image: "https://audionic.co/products/airbud-425-tws-earbuds?srsltid=AfmBOorWz5924rCkRMG4nXKxgEFGE7scqK2J4UTfyQiZ26JXdvsYmUjA"
   },
