@@ -6,8 +6,8 @@ const products = [
   {
     asin: "B07PGL2ZSL",
     title: "Audionic Wireless Earbuds",
-    price: "$59.99",
-    image: "https://audionic.co/products/airbud-425-tws-earbuds?srsltid=AfmBOorWz5924rCkRMG4nXKxgEFGE7scqK2J4UTfyQiZ26JXdvsYmUjA"
+    price: "$29.99",
+    image: "https://audionic.co/cdn/shop/files/audionic-the-sound-master-black-airbud-425-tws-earbuds-35775640928412.webp?v=1755669185"
   },
   {
     asin: "B08N5WRWNW",
